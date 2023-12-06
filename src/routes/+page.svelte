@@ -10,5 +10,7 @@
     })
 </script>
 
+<h1> ceci est la page des tournées </h1>
+
 <HelloWorld {name}/>
 <p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
