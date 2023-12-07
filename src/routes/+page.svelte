@@ -11,4 +11,8 @@
 </script>
 
 <HelloWorld {name}/>
+<nav>
+    <a href="/api/creche">creche</a><br>
+    <a href="/api/connexion">connexion</a><br>
+</nav>
 <p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
